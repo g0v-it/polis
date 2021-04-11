@@ -1,12 +1,28 @@
 # Polis
+This repo  is a fork for [Pol.is project](https://github.com/compdemocracy/polis) made by the [Italian G0V team](https://www.copernicani.it/il-software-g0v-it/) for [Copenicani association](https://copenicani.it).
 pol.is an AI powered sentiment gathering platform. More organic than surveys, less effort than focus groups.
 
-<!-- Changes to badge text in URLs below, require changes to "name" value in .github/workflows/*.yml -->
+The objectves this effort is to improve the polis code in order to:
+.) allowing safe provision  the polis service in a controlled European datacenter;
+.) making it fully GDPR compliant according Copernticani terms of service and privacy policy;
+.) removing (or making optional) any dependency to TOS services (FaceBook, Google, etc) avoiding any not explicit user profiling  by external entities;
+.) enabling user authentication with an LDAP service;
+.) using a Zero Knowledge Protocol to allow safe anonymous conversation (thanks to [Amlet](https://amlet.eu));
+.) using SSI to allow safe conversation autenticating with an official eIDAS2 compliant digital identity (thanks to [Amlet](https://amlet.eu));
+.) make clear the responsibility of service provider and software developers;
+.) improve documentation
+
+The g0v-it team aims to give back all changes to code made in this project in the main Polis repository.
+
+
+
+<!-- Changes to badge text in URLs below, require changes to "name" value in .github/workflows/*.yml 
 [![Nightly Docker Builds](https://github.com/compdemocracy/polis/workflows/Nightly%20Docker%20Builds/badge.svg)][nightlies]
 [![E2E Tests](https://github.com/compdemocracy/polis/workflows/E2E%20Tests/badge.svg)][e2e-tests]
 
    [nightlies]: https://hub.docker.com/u/polisdemo
    [e2e-tests]: https://github.com/compdemocracy/polis/actions?query=workflow%3A%22E2E+Tests%22
+-->
 
 ## :construction: Disclaimer
 

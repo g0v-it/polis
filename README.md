@@ -4,8 +4,8 @@ pol.is an AI powered sentiment gathering platform. More organic than surveys, le
 
 The objectives of this effort is to improve the polis code in order to:
 
-- allowing safe provision  the polis service in a controlled European datacenter;
-- making it fully GDPR compliant according Copernticani terms of service and privacy policy;
+- allowing safe provision of the polis service in a controlled European datacenter;
+- making it fully GDPR compliant according Copernicani terms of service and privacy policy;
 - removing (or making optional) any dependency to TOS services (FaceBook, Google, etc) avoiding any not explicit user profiling  by external entities;
 - enabling user authentication with an LDAP service;
 - using a Zero Knowledge Protocol to allow safe anonymous conversation (thanks to [Amlet](https://amlet.eu));

@@ -2,15 +2,16 @@
 This repo  is a fork for [Pol.is project](https://github.com/compdemocracy/polis) made by the [Italian G0V team](https://www.copernicani.it/il-software-g0v-it/) for [Copenicani association](https://copenicani.it).
 pol.is an AI powered sentiment gathering platform. More organic than surveys, less effort than focus groups.
 
-The objectves this effort is to improve the polis code in order to:
-.) allowing safe provision  the polis service in a controlled European datacenter;
-.) making it fully GDPR compliant according Copernticani terms of service and privacy policy;
-.) removing (or making optional) any dependency to TOS services (FaceBook, Google, etc) avoiding any not explicit user profiling  by external entities;
-.) enabling user authentication with an LDAP service;
-.) using a Zero Knowledge Protocol to allow safe anonymous conversation (thanks to [Amlet](https://amlet.eu));
-.) using SSI to allow safe conversation autenticating with an official eIDAS2 compliant digital identity (thanks to [Amlet](https://amlet.eu));
-.) make clear the responsibility of service provider and software developers;
-.) improve documentation
+The objectives of this effort is to improve the polis code in order to:
+
+- allowing safe provision  the polis service in a controlled European datacenter;
+- making it fully GDPR compliant according Copernticani terms of service and privacy policy;
+- removing (or making optional) any dependency to TOS services (FaceBook, Google, etc) avoiding any not explicit user profiling  by external entities;
+- enabling user authentication with an LDAP service;
+- using a Zero Knowledge Protocol to allow safe anonymous conversation (thanks to [Amlet](https://amlet.eu));
+- using SSI to allow safe conversation autenticating with an official eIDAS2 compliant digital identity (thanks to [Amlet](https://amlet.eu));
+- make clear the responsibility of service provider and software developers;
+- improve documentation
 
 The g0v-it team aims to give back all changes to code made in this project in the main Polis repository.
 

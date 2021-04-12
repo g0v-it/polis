@@ -9,15 +9,17 @@ module.exports = {
     ".+\\.pol\\.is$",
     "^xip\\.io$",
     ".+\\.xip\\.io$",
+
+    ".+\\.copernicani\\.it$",
   ],
 
   DISABLE_INTERCOM: true,
   DISABLE_PLANS: true,
 
-  FB_APP_ID: '661042417336977',
+  FB_APP_ID: '000000000000000',
 
   //SERVICE_URL: 'http://localhost:5000',
-  SERVICE_URL: 'https://preprod.pol.is',
+  SERVICE_URL: 'http://polis.copenicani.it',
 
   UPLOADER: 'local', // alt: s3, scp
 

@@ -14,6 +14,7 @@ class Header extends Component {
           Legal
         </Heading>
         <Box sx={{ mb: [2, null, 3], maxWidth: '30em' }}>
+          <Link href="https://copernicani.it/">Copernicani</Link> test edition of Polis hosted in Europe.  Do not use in production.{' '}
           Polis is built for the public with {emoji('❤️')} in Seattle{' '}
           {emoji('🇺🇸')}, with contributions from around the {emoji('🌍🌏🌎')}
         </Box>

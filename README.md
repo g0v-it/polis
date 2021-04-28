@@ -6,7 +6,7 @@ The objectives of this effort is to improve the polis code in order to:
 
 - allowing safe provision of the polis service in a controlled European datacenter;
 - making it fully GDPR compliant according Copernicani terms of service and privacy policy;
-- removing (or making optional) any dependency to TOS services (FaceBook, Google, etc) avoiding any not explicit user profiling  by external entities;
+- removing (or making optional) any dependency to OTT services (FaceBook, Google, etc) avoiding any not explicit user profiling  by external entities;
 - enabling user authentication with an LDAP service;
 - using a Zero Knowledge Protocol to allow safe anonymous conversation (thanks to [Amlet](https://amlet.eu));
 - using SSI to allow safe conversation autenticating with an official eIDAS2 compliant digital identity (thanks to [Amlet](https://amlet.eu));
